@@ -35,4 +35,6 @@ public class ClassAndObjectExample {
 OUTPUT:
 
 Name: keerthana
-A
+Age=17
+Name: deepthi
+Age=17
